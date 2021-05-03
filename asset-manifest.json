@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fwsd-ecom/static/css/main.8a9282ca.chunk.css",
+    "main.js": "/fwsd-ecom/static/js/main.95039bc5.chunk.js",
+    "main.js.map": "/fwsd-ecom/static/js/main.95039bc5.chunk.js.map",
+    "runtime-main.js": "/fwsd-ecom/static/js/runtime-main.394d5787.js",
+    "runtime-main.js.map": "/fwsd-ecom/static/js/runtime-main.394d5787.js.map",
+    "static/js/2.7a04a061.chunk.js": "/fwsd-ecom/static/js/2.7a04a061.chunk.js",
+    "static/js/2.7a04a061.chunk.js.map": "/fwsd-ecom/static/js/2.7a04a061.chunk.js.map",
+    "static/js/3.86b18183.chunk.js": "/fwsd-ecom/static/js/3.86b18183.chunk.js",
+    "static/js/3.86b18183.chunk.js.map": "/fwsd-ecom/static/js/3.86b18183.chunk.js.map",
+    "index.html": "/fwsd-ecom/index.html",
+    "static/css/main.8a9282ca.chunk.css.map": "/fwsd-ecom/static/css/main.8a9282ca.chunk.css.map",
+    "static/js/2.7a04a061.chunk.js.LICENSE.txt": "/fwsd-ecom/static/js/2.7a04a061.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.394d5787.js",
+    "static/js/2.7a04a061.chunk.js",
+    "static/css/main.8a9282ca.chunk.css",
+    "static/js/main.95039bc5.chunk.js"
+  ]
+}
